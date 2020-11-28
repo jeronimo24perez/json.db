@@ -1,0 +1,131 @@
+{
+  "blouses":[
+    {
+      "id": 1,
+      "titulo": "blusa de dama",
+      "color": "crudo",
+      "tallas":"XL, L, S",
+      "tipo": "de tiras",
+      "imagen": "https://n.todayshipit.com/img/products/62541-mysterypark-verano-estilo-manga-corta-blusa-mujer-tops-moldeado-hecho-a-mano-hoja-de-loto-gasa-de-la-manga-top-camisa-blusa-femenino.jpg",
+      "precio": "20.000 COP",
+      "alt": "blusa no disponible"
+  
+    },
+    {
+      "id": 2,
+      "titulo": "blusa de dama",
+      "color": "salmon",
+      "tallas":"XL, L",
+      "tipo": "de tiras",
+      "imagen": "https://images.jumpseller.com/store/jacobo-en-linea/2580458/Blusa-moda-manga-corta-boleros-cuello-redondo-B0051.jpg?1569031615",
+      "precio": "40.000 COP",
+      "alt": "blusa no disponible"
+    },
+    {
+      "id": 3,
+      "titulo": "blusa de dama",
+      "color": "negro",
+      "tallas":"XL, L, S, M",
+      "tipo": "de tiras",
+      "imagen": "https://ae01.alicdn.com/kf/HTB1UEocKXXXXXaPXVXXq6xXFXXXl/2015-nueva-moda-mujer-blusas-elegante-atractivo-Backless-Tube-Top-de-cuello-alto-camisa-de-encaje.jpg_960x960.jpg",
+      "precio": "30.000 COP",
+      "alt": "blusa no disponible"
+    },
+    {
+      "id": 4,
+      "titulo": "blusa de dama",
+      "color": "crudo",
+      "tallas":"XL, L, S",
+      "tipo": "de tiras",
+      "imagen": "https://elaco.vteximg.com.br/arquivos/ids/427012-700-1025/camisasyblusas-negro-e170999-1.jpg?v=637249930712100000",
+      "precio": "20.000 COP",
+      "alt": "blusa no disponible"
+  
+    },
+    {
+      "id": 5,
+      "titulo": "blusa de dama",
+      "color": "salmon",
+      "tallas":"XL, L",
+      "tipo": "manga corta",
+      "imagen": "https://brussi.co/wp-content/uploads/2019/11/Blusa-manga-sisa-arandela-Ref-Z-172-bolero-negro-clima-calido-Jeans-bogota-fin-de-semana-oficina-comoda-horma-ropa-colombiana-levanta-cola.jpg",
+      "precio": "40.000 COP",
+      "alt": "blusa no disponible"
+    },
+    {
+      "id": 6,
+      "titulo": "blusa de dama",
+      "color": "blanco",
+      "tallas":"XL, L, S, M",
+      "tipo": "de tiras",
+      "imagen": "https://elintranews.com/wp-content/uploads/2019/11/Emilia-clarke-Foto-Instagram-696x533-1.jpg",
+      "precio": "30.000 COP",
+      "alt": "blusa no disponible"
+    },
+    {
+      "id": 7,
+      "titulo": "blusa de dama",
+      "color": "crudo",
+      "tallas":"XL, L, S",
+      "tipo": "de tiras",
+      "imagen": "https://n.todayshipit.com/img/products/62541-mysterypark-verano-estilo-manga-corta-blusa-mujer-tops-moldeado-hecho-a-mano-hoja-de-loto-gasa-de-la-manga-top-camisa-blusa-femenino.jpg",
+      "precio": "20.000 COP",
+      "alt": "blusa no disponible"
+  
+    },
+    {
+      "id": 8,
+      "titulo": "blusa de dama",
+      "color": "salmon",
+      "tallas":"XL, L",
+      "tipo": "manga corta",
+      "imagen": "https://images.jumpseller.com/store/jacobo-en-linea/2580458/Blusa-moda-manga-corta-boleros-cuello-redondo-B0051.jpg?1569031615",
+      "precio": "40.000 COP",
+      "alt": "blusa no disponible"
+    },
+    {
+      "id": 9,
+      "titulo": "blusa de dama",
+      "color": "blanco",
+      "tallas":"XL, L, S, M",
+      "tipo": "de tiras",
+      "imagen": "https://ae01.alicdn.com/kf/HTB1UEocKXXXXXaPXVXXq6xXFXXXl/2015-nueva-moda-mujer-blusas-elegante-atractivo-Backless-Tube-Top-de-cuello-alto-camisa-de-encaje.jpg_960x960.jpg",
+      "precio": "30.000 COP",
+      "alt": "blusa no disponible"
+    },
+    
+    {
+      "id": 10,
+      "titulo": "blusa de dama",
+      "color": "crudo",
+      "tallas":"XL, L, S",
+      "tipo": "de tiras",
+      "imagen": "https://studiofco.vteximg.com.br/arquivos/ids/1167264-1000-1071/camisasyblusas-caki-s171660a-1.jpg?v=637371886968930000",
+      "precio": "20.000 COP",
+      "alt": "blusa no disponible"
+  
+    },
+    {
+      "id": 11,
+      "titulo": "blusa de dama",
+      "color": "salmon",
+      "tallas":"XL, L",
+      "tipo": "manga corta",
+      "imagen": "https://aws.glamour.es/prod/designs/v1/assets/620x620/624572.jpeg",
+      "precio": "40.000 COP",
+      "alt": "blusa no disponible"
+    },
+    {
+      "id": 12,
+      "titulo": "blusa de dama",
+      "color": "blanco",
+      "tallas":"XL, L, S, M",
+      "tipo": "de tiras",
+      "imagen": "https://studiofco.vteximg.com.br/arquivos/ids/1171790-1000-1071/camisasyblusas-azul-s170774a-1.jpg?v=637387302372670000",
+      "precio": "30.000 COP",
+      "alt": "blusa no disponible"
+    }
+   
+    
+  ]
+}
